@@ -39,9 +39,10 @@ Sin instalaciones · Solo tu navegador · ~60 minutos
 
 ### Lección 2: Estructura HTML básica (~8 minutos)
 - **Descripción**: Etiquetas esenciales y tu primera página web desde cero.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=enlace-leccion-2)
+- **Enlace**: [Ver la lección](https://youtu.be/CmAdPyvKhCQ)
 - **Conclusiones clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡Sin registro!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/ih/1TPK) 👈 **¡Sin registro!**
+- **PPT**: [Abrir Material](https://docs.google.com/presentation/d/173jX2C29_bpVJ-3qFonranU378DjCHfp/edit?usp=sharing&ouid=113168325211246670998&rtpof=true&sd=true)
 
 ### Lección 3: Elementos HTML comunes (~8 minutos)
 - **Descripción**: Listas, imágenes y enlaces para enriquecer tu página.
@@ -79,12 +80,12 @@ Sin instalaciones · Solo tu navegador · ~60 minutos
 
 | # | Actividad | Editor | Nota |
 |---|-----------|--------|------|
-| 1 | Explorar sitios web | [CodePen](https://codepen.io/pen/) | Sin registro |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/pen/) | Sin registro |
-| 3 | Listas, imágenes y enlaces | [JSFiddle](https://jsfiddle.net/) | Sin registro |
-| 4 | Estilos con CSS | [CodePen](https://codepen.io/pen/) | Sin registro |
-| 5 | Diseño y bordes | [CodePen](https://codepen.io/pen/) | Sin registro |
-| 6 | Página de perfil completa | [Replit](https://replit.com/) | Guarda y comparte |
+| 1 | Explorar sitios web | []() |  |
+| 2 | Primera página HTML | [JDoodle](https://www.jdoodle.com/ih/1TPK) | Mi primera Pagina HTML |
+| 3 | Listas, imágenes y enlaces | [JDoodle](https://www.jdoodle.com/online-java-compiler) | Sin registro |
+| 4 | Estilos con CSS | [JDoodle](https://www.jdoodle.com/online-java-compiler) | Sin registro |
+| 5 | Diseño y bordes | [JDoodle](https://www.jdoodle.com/online-java-compiler) | Sin registro |
+| 6 | Página de perfil completa | [JDoodle](https://www.jdoodle.com/online-java-compiler) | Guarda y comparte |
 
 ---
 
