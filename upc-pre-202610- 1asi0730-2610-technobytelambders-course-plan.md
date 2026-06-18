@@ -45,7 +45,7 @@ Sin instalaciones · Solo tu navegador · ~60 minutos
 
 ### Lección 3: Elementos HTML comunes (~8 minutos)
 - **Descripción**: Listas, imágenes y enlaces para enriquecer tu página.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=enlace-leccion-3)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=PPjGNjCAMi4)
 - **Conclusiones clave**: Usa `<ul>`, `<img>`, `<a href="">`.
 - **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡Inicio inmediato!**
 
