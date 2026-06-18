@@ -51,7 +51,7 @@ Sin instalaciones · Solo tu navegador · ~60 minutos
 
 ### Lección 4: Introducción a CSS (~10 minutos)
 - **Descripción**: Dale color y estilo a tu HTML usando CSS por primera vez.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=enlace-leccion-4)
+- **Enlace**: [Ver la lección](https://drive.google.com/file/d/1CPJ9RpVuF87f9_N9fv1qpWyMx5rSLy-D/view?usp=sharing)
 - **Conclusiones clave**: Selectores, `color`, `font-size`, `background-color`.
 - **Práctica**: [Clic para programar](https://codepen.io/tomitomi10/pen/rajjdmY) 👈 **¡Sin registro!**
 
