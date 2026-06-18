@@ -1,0 +1,31 @@
+/*
+Starter CSS for Lesson 4: CSS Introduction (Mascota Digital)
+
+HTML sugerido para este ejercicio:
+<body>
+  <h1>Adopta a un Amigo</h1>
+  <div class="tarjeta-mascota">
+    <h2>Nombre: Chester 🐾</h2>
+    <p>Un perrito muy alegre que busca un hogar lleno de amor. Le encanta correr en el parque y jugar con la pelota.</p>
+  </div>
+</body>
+
+TODO: Cambia el color de fondo de toda la página (body) a un tono pastel suave.
+TODO: Modifica la .tarjeta-mascota para que tenga un fondo blanco, un borde redondeado y separación interna.
+TODO: Cambia el color y tamaño del texto del párrafo para que sea fácil de leer.
+*/
+
+body {
+  /* ¡Empieza aquí! Modifica el fondo escribiendo background-color abajo */
+  background-color: transparent; 
+}
+
+.tarjeta-mascota {
+  /* Diseña el contenedor de la mascota aquí (puedes empezar con border o padding) */
+  border: 1px solid transparent;
+}
+
+p {
+  /* Dale estilo al texto descriptivo aquí (por ejemplo, cambiando el color) */
+  color: inherit;
+}
