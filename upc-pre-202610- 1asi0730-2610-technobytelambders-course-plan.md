@@ -58,8 +58,9 @@ Sin instalaciones · Solo tu navegador · ~60 minutos
 
 ### Lección 5: Estilos y diseño simple (~10 minutos)
 - **Descripción**: Centrar contenido, bordes y fondos para mejorar el diseño.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=enlace-leccion-5)
+- **Enlace**: [Ver la lección](https://youtu.be/qR2RPPSzeLo)
 - **Conclusiones clave**: `margin`, `padding`, `border`, `text-align: center`.
+- **PPT**: [Abrir material](https://docs.google.com/presentation/d/1tdnltbzamnO5iKylYYz7tCILBJSVANIa/edit?usp=sharing&ouid=100931869348000403309&rtpof=true&sd=true)
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡Sin registro!**
 
 ### Lección 6: Construyendo una página web completa (~12 minutos)
