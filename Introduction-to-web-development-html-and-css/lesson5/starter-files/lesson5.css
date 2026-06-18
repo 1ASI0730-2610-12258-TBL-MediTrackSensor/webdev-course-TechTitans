@@ -1,0 +1,46 @@
+﻿/* 💡 EJERCICIO:
+   Completa los estilos usando lo aprendido:
+   - background-color
+   - color
+   - text-align
+   - margin auto
+   - width
+   - border
+*/
+
+/* Fondo general de la página */
+body {
+    /* TODO: coloca un color de fondo suave */
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+/* Encabezado */
+.header {
+    /* TODO: coloca color de fondo */
+    /* TODO: cambia el color del texto */
+    /* TODO: centra el texto */
+    padding: 20px;
+}
+
+/* Tarjetas */
+.card {
+    /* TODO: color de fondo blanco */
+    /* TODO: define un ancho (ej: 60%) */
+    /* TODO: centra la caja con margin auto */
+    /* TODO: agrega borde */
+    /* TODO: agrega espacio interno (padding) */
+    /* TODO: redondea bordes si quieres */
+}
+
+/* Títulos */
+.card h2 {
+    /* TODO: cambia el color del texto */
+    /* TODO: centra el texto */
+}
+
+/* Párrafos */
+.card p {
+    /* TODO: cambia color del texto */
+    /* TODO: centra el texto */
+}
