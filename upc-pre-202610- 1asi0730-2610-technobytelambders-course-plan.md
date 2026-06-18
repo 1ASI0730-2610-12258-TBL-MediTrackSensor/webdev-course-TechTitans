@@ -53,7 +53,7 @@ Sin instalaciones · Solo tu navegador · ~60 minutos
 - **Descripción**: Dale color y estilo a tu HTML usando CSS por primera vez.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=enlace-leccion-4)
 - **Conclusiones clave**: Selectores, `color`, `font-size`, `background-color`.
-- **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡Sin registro!**
+- **Práctica**: [Clic para programar](https://codepen.io/tomitomi10/pen/rajjdmY) 👈 **¡Sin registro!**
 
 ### Lección 5: Estilos y diseño simple (~10 minutos)
 - **Descripción**: Centrar contenido, bordes y fondos para mejorar el diseño.
@@ -82,7 +82,7 @@ Sin instalaciones · Solo tu navegador · ~60 minutos
 | 1 | Explorar sitios web | [CodePen](https://codepen.io/pen/) | Sin registro |
 | 2 | Primera página HTML | [CodePen](https://codepen.io/pen/) | Sin registro |
 | 3 | Listas, imágenes y enlaces | [JSFiddle](https://jsfiddle.net/) | Sin registro |
-| 4 | Estilos con CSS | [CodePen](https://codepen.io/pen/) | Sin registro |
+| 4 | Estilos con CSS | [CodePen](https://codepen.io/tomitomi10/pen/rajjdmY) | Sin registro |
 | 5 | Diseño y bordes | [CodePen](https://codepen.io/pen/) | Sin registro |
 | 6 | Página de perfil completa | [Replit](https://replit.com/) | Guarda y comparte |
 
@@ -108,7 +108,7 @@ Carrera de Ingeniería de Software · Período 202610
 | Herrera Enriquez, Diego Fernando | Integrante |
 | Mallqui Vilca, Dhilsen Armil | Integrante |
 | Urviola Condori, Mateo Sebastian | Integrante |
-| Thomas | Integrante |
+| Paredes Diaz, Tomás Alessandro | Integrante |
 
 ---
 
