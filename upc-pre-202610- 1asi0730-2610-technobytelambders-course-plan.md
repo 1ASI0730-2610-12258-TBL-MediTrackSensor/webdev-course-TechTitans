@@ -71,7 +71,7 @@ Sin instalaciones · Solo tu navegador · ~60 minutos
 
 ### Lección 7: Consejos y próximos pasos (~7 minutos)
 - **Descripción**: Errores comunes, buenas prácticas y recursos para seguir aprendiendo.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=enlace-leccion-7)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=iDEfFa0zWsU)
 - **Conclusiones clave**: Valida tu código, explora MDN Web Docs.
 - **Comparte tu trabajo**: [Envía tu creación](https://forms.gle/tu-formulario)
 
