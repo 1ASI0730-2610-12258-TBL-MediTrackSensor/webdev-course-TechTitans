@@ -1,0 +1,22 @@
+/* Solución Esperada - Proyecto Tarjeta de Mascota (Acorde a la Lección 4) */
+
+body {
+  background-color: #e8f5e9;  /* Tono verde menta suave para el fondo */
+  font-family: Arial, sans-serif; /* Fuente limpia y estándar */
+  color: #2e7d32;             /* Texto principal en verde oscuro */
+}
+
+.tarjeta-mascota {
+  background-color: #ffffff;  /* Fondo blanco para que resalte */
+  max-width: 350px;           /* Limitamos el ancho de la tarjeta */
+  margin: 40px auto;          /* Centra la tarjeta automáticamente en la pantalla */
+  padding: 20px;              /* Espacio interno para que el texto no choque con los bordes */
+  border: 3px solid #4caf50;  /* Borde verde definido */
+  border-radius: 12px;        /* Esquinas redondeadas */
+}
+
+p {
+  color: #555555;             /* Gris oscuro para el párrafo informativo */
+  font-size: 16px;            /* Tamaño de fuente adecuado */
+  line-height: 1.5;           /* Altura de línea para mejorar la lectura */
+}
