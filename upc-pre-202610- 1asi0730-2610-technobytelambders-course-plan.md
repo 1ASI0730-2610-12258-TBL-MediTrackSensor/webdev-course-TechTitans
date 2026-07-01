@@ -33,13 +33,13 @@ Sin instalaciones · Solo tu navegador · ~60 minutos
 
 ### Lección 1: ¿Qué es un sitio web? (~5 minutos)
 - **Descripción**: Qué es la web, cómo funciona un sitio y la diferencia entre HTML y CSS.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=enlace-leccion-1)
+- **Enlace**: [Ver la lección](https://youtu.be/v0aG7vZ9zSI)
 - **Conclusiones clave**: Todo sitio web = Estructura (HTML) + Estilo (CSS).
 - **Empieza a programar**: [Abrir CodePen](https://codepen.io/pen/)
 
 ### Lección 2: Estructura HTML básica (~8 minutos)
 - **Descripción**: Etiquetas esenciales y tu primera página web desde cero.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=enlace-leccion-2)
+- **Enlace**: [Ver la lección](https://youtu.be/CmAdPyvKhCQ)
 - **Conclusiones clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡Sin registro!**
 
