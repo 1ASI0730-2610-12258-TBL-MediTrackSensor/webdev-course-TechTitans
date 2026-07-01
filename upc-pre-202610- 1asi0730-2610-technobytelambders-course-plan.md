@@ -36,12 +36,14 @@ Sin instalaciones · Solo tu navegador · ~60 minutos
 - **Enlace**: [Ver la lección](https://youtu.be/v0aG7vZ9zSI)
 - **Conclusiones clave**: Todo sitio web = Estructura (HTML) + Estilo (CSS).
 - **Empieza a programar**: [Abrir CodePen](https://codepen.io/pen/)
+- **PPT**: [Abrir Material](https://docs.google.com/presentation/d/1Pin_AZS7QXGNnzuPqNFG2tJEU0BJ0W4H/edit?usp=sharing&ouid=113168325211246670998&rtpof=true&sd=true)
 
 ### Lección 2: Estructura HTML básica (~8 minutos)
 - **Descripción**: Etiquetas esenciales y tu primera página web desde cero.
 - **Enlace**: [Ver la lección](https://youtu.be/CmAdPyvKhCQ)
 - **Conclusiones clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡Sin registro!**
+- **PPT**: [Abrir Material](https://docs.google.com/presentation/d/173jX2C29_bpVJ-3qFonranU378DjCHfp/edit?usp=sharing&ouid=113168325211246670998&rtpof=true&sd=true)
 
 ### Lección 3: Elementos HTML comunes (~8 minutos)
 - **Descripción**: Listas, imágenes y enlaces para enriquecer tu página.
