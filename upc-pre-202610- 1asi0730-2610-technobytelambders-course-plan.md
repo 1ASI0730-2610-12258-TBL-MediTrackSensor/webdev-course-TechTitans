@@ -25,7 +25,7 @@ Sin instalaciones · Solo tu navegador · ~60 minutos
 | 🎯 **Público objetivo** | Estudiantes de 12 a 17 años sin experiencia |
 | 📚 **Prerrequisitos** | Ninguno |
 | 🛠️ **Herramientas** | Solo tu navegador (Chrome, Firefox, Safari, Edge) |
-| 📂 **Repositorio** | [webdev-course-technobyteLambders](https://github.com/technobyteLambders/webdev-course-technobyteLambders) |
+| 📂 **Repositorio** | [webdev-course-technobyteLambders](https://github.com/1ASI0730-2610-12258-TBL-MediTrackSensor/MediTrackSensor-Project-Report.git) |
 
 ---
 
